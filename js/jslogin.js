@@ -6,7 +6,7 @@ function validate(){
 	var username = document.getElementById("username").value;    /*function executes on click of login button*/
 	var password = document.getElementById("password").value;
 	
-	if (username == "lovebunny" && password =="sassy"){
+	if (username == "temicka2016" && password =="sassy"){
 		alert("Login is Complete");
 		window.location = "success.html"; //Redirecting to the other page. This is not a real page!//
 		return false;
